@@ -1,4 +1,4 @@
-# alurapic
+# Project created by me for www.alura.com.br
 
 > A Vue.js project
 
